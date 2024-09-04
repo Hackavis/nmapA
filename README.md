@@ -28,5 +28,5 @@ O modifica un poco y añade la línea a tu `.bashrc`/`.zshrc` como una función.
 
 ### Uso
 ``sh
-sudo nmapauto <objetivo>``
+sudo nmapauto <objetivo>
 ``
