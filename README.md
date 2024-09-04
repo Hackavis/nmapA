@@ -14,11 +14,11 @@ Escaneo en un equipo HTB
 ## Instalar
 Clonar el repositorio
 ```sh
-git clone https://github.com/the-root-user/nmap-auto.git
+git clone https://github.com/Hackavis/nmapA.git
 ```
 luego, ejecuta el comando
 ``sh
-sudo cp nmap-auto.sh /bin/nmapauto
+sudo cp nmap-auto.sh /bin/nmapA
 ```
 o modifica un poco y añade la línea a tu `.bashrc`/`.zshrc` como una función.
 ### Uso
