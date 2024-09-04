@@ -8,7 +8,8 @@ Un script Bash para fascilitar tu viaje de Hacking
 
 ### Escaneo de demostración
 Escaneo en un equipo HTB
-![Nmap-Automater](https://user-images.githubusercontent.com/70033863/157475666-f9127ad1-e7b9-473b-8a74-aea6e2dfa2f2.png)
+
+
 
 ## Instalar
 Clonar el repositorio
